@@ -54,7 +54,7 @@
     "node": "20 || >=22"
   },
   "dependencies": {
-    "brace-expansion": "^2.0.1"
+    "brace-expansion": "^4.0.0"
   },
   "devDependencies": {
     "@types/brace-expansion": "^1.1.2",
