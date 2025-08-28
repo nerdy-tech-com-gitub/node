@@ -4,7 +4,7 @@
     "build": "tsc proto-to-json.ts"
   },
   "devDependencies": {
-    "@types/node": "^11.11.4",
+    "@types/node": "^22.9.2",
     "protobufjs": "^6.8.8",
     "typescript": "^3.3.4000"
   }
