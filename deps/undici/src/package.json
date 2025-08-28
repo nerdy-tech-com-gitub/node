@@ -112,7 +112,7 @@
     "cross-env": "^7.0.3",
     "dns-packet": "^5.4.0",
     "fast-check": "^3.17.1",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.1",
     "formdata-node": "^6.0.3",
     "https-pem": "^3.0.0",
     "husky": "^9.0.7",
