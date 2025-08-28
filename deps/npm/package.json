@@ -203,7 +203,7 @@
     "ajv-formats-draft2019": "^1.6.1",
     "cli-table3": "^0.6.4",
     "diff": "^5.2.0",
-    "nock": "^13.4.0",
+    "nock": "^14.0.1",
     "npm-packlist": "^8.0.2",
     "remark": "^14.0.2",
     "remark-gfm": "^3.0.1",
