@@ -19,7 +19,7 @@
   "packageManager": "yarn@4.3.1+sha224.934d21773e22af4b69a7032a2d3b4cb38c1f7c019624777cc9916b23",
   "devDependencies": {
     "@types/debug": "^4.1.5",
-    "@types/node": "^20.4.6",
+    "@types/node": "^22.10.3",
     "@types/proxy-from-env": "^1",
     "@types/semver": "^7.1.0",
     "@types/which": "^3.0.0",
