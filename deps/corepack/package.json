@@ -40,7 +40,7 @@
     "undici": "^6.19.2",
     "v8-compile-cache": "^2.3.0",
     "vitest": "^2.0.3",
-    "which": "^4.0.0"
+    "which": "^5.0.0"
   },
   "resolutions": {
     "undici-types": "6.x"
