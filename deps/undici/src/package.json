@@ -124,7 +124,7 @@
     "snazzy": "^9.0.0",
     "standard": "^17.0.0",
     "tsd": "^0.31.0",
-    "typescript": "^5.0.2",
+    "typescript": "^5.7.3",
     "ws": "^8.11.0"
   },
   "engines": {
